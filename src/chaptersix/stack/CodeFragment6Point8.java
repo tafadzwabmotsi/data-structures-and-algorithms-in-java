@@ -1,4 +1,4 @@
-package chaptersix;
+package chaptersix.stack;
 
 import java.util.Stack;
 
